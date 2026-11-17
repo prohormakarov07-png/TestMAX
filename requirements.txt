@@ -1,0 +1,6 @@
+aiogram>=3.13,<4
+python-dotenv>=1.0
+# нужен только если используете socks-прокси для Telegram (PROXY=socks5://...)
+aiohttp-socks>=0.9
+# для max_bot.py (мессенджер MAX)
+maxapi
